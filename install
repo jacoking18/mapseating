@@ -1,0 +1,3 @@
+mkdir office-seating && cd office-seating
+python -m venv .venv && source .venv/bin/activate     # macOS/Linux
+pip install streamlit pandas pillow streamlit-drawable-canvas
